@@ -1,7 +1,7 @@
 {
   "name": "jxtech",
-  "version": "1.0.0",
-  "description": "Test application",
+  "version": "0.0.1",
+  "description": "Test App",
   "main": "index.js",
   "scripts": {
     "test": "test"
