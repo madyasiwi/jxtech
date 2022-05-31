@@ -1,0 +1,11 @@
+{
+  "name": "jxtech",
+  "version": "1.0.0",
+  "description": "Test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Indra",
+  "license": "ISC"
+}
